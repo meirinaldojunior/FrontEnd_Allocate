@@ -33,6 +33,7 @@ public class Departamento extends javax.swing.JFrame {
         bt_cancelar = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setAlwaysOnTop(true);
 
         jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder("Selecione o Departamento"));
 
